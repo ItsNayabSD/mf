@@ -1,5 +1,7 @@
 # Mutual Funds
 
+JS function to calculate XIRR for mutual funds.
+
 * <a href="#depend">Install dependencies</a>
 * <a href="#run">Run the program</a>
 * <a href="#xirrp">Example given in the xirr.js file</a>
